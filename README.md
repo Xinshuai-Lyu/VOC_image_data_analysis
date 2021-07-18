@@ -1,0 +1,1 @@
+It not only provides a basic image analysis but also visually discloses the limitation of YoLoV1 with 2 anchorboxes. IOU_Conflict_Analysis.ipynb shows you the limitation of non max supression algorithm; Object_Position_Conflict_Analysis.ipynb shows 7X7 grid size shortage for 11.25% images with objects in the same cells.
